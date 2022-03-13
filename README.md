@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href=" https://kaiopratess.github.io/portifolio-master-challenge/">
+    <a href="https://kaiopratess.github.io/portifolio-master-challenge/">
       Demo
     </a>
     <span> | </span>
-    <a href=" https://kaiopratess.github.io/portifolio-master-challenge/">
+    <a href="https://kaiopratess.github.io/portifolio-master-challenge/">
       Solution
     </a>
     <span> | </span>
